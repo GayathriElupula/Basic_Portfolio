@@ -31,8 +31,4 @@ A simple and elegant personal portfolio website template built with HTML and CSS
 - Add your own projects to the Projects section
 - Modify colors and styles in the CSS file to match your personal brand
 
-## Credits
 
-Created by [Prayush Adhikari]
-
-Feel free to use and modify this template for your personal portfolio website.
